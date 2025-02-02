@@ -21,7 +21,7 @@ Once the Gradio interface launches in your browser:
 
 Here’s a table summarizing all the algorithms and how to use them:
 
-| **Category**            | **Algorithm**                     | **Description**                                                                 | **How to Use**                                                                 |
+| **Category**            | **Algorithm**                     | **Description**                                                                 | **Example**                                                                |
 |--------------------------|-----------------------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | **Basic Processing**     | Grayscale Conversion              | Converts the image to grayscale. 🖤🤍                                           | Select **Grayscale** from the dropdown.                                        |
 |                          | Thresholding                      | Creates a binary image based on a threshold value. ⚖️                          | Select **Threshold** from the dropdown.                                        |
@@ -33,7 +33,7 @@ Here’s a table summarizing all the algorithms and how to use them:
 | **Segmentation**         | Manual Segmentation               | Segments the image based on manually defined thresholds. 🎯                    | Select **Manual Segmentation** from the dropdown.                              |
 |                          | Histogram Peak Segmentation       | Segments the image based on histogram peaks. 📊                                | Select **Histogram Peak Segmentation** from the dropdown.                      |
 |                          | Histogram Valley Segmentation     | Segments the image based on histogram valleys. 📉                              | Select **Histogram Valley Segmentation** from the dropdown.                    |
-|                          | Adaptive Histogram Segmentation   | Segments the image using adaptive histogram thresholds. 🎚️                    | Select **Adaptive Histogram Segmentation** from the dropdown.                  |
+|                          | Adaptive Histogram Segmentation   | Segments the image using adaptive histogram thresholds. 🎚️                    | ![Adaptive Histogram Segmentation](https://github.com/fatma2123456/Image-Magic-Lab/raw/main/Images_Projects/Adaptive%20Histogram%20Segmentation.png).                  |
 | **Filters**              | High-Pass Filter                  | Sharpens the image by enhancing high-frequency components. 🔍                  | Select **High-Pass Filter** from the dropdown.                                 |
 |                          | Low-Pass Filter                   | Smoothens the image by enhancing low-frequency components. 🌊                  | Select **Low-Pass Filter** from the dropdown.                                  |
 |                          | Median Filter                     | Reduces noise in the image using a median filter. 🧹                           | Select **Median Filter** from the dropdown.                                    |
